@@ -12,3 +12,7 @@ Before running the script, make sure you have the following:
 - A webcam (if you want to use live video)
 
 Install the necessary Python libraries using pip:
+
+**Watch the video:** [![Watch the video](https://drive.google.com/drive/u/0/my-drive)](https://drive.google.com/drive/u/0/my-drive)
+
+This repository contains a Python script for real-time object detection using the MobileNet SSD model. It uses OpenCV and TensorFlow for the object detection task and can work with either an image file or a live video stream from your webcam.
