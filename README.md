@@ -13,6 +13,6 @@ Before running the script, make sure you have the following:
 
 Install the necessary Python libraries using pip:
 
-**Watch the video:** [![Watch the video](https://youfiles.herokuapp.com/videodictionary/?m=Video_Player_Drive&state=%7B%22ids%22:%5B%221v_rKbytlOVruOvBeQBUI48AWtK6S3av7%22%5D,%22action%22:%22open%22,%22userId%22:%22113205001524472814029%22,%22resourceKeys%22:%7B%7D%7D)](https://youfiles.herokuapp.com/videodictionary/?m=Video_Player_Drive&state=%7B%22ids%22:%5B%221v_rKbytlOVruOvBeQBUI48AWtK6S3av7%22%5D,%22action%22:%22open%22,%22userId%22:%22113205001524472814029%22,%22resourceKeys%22:%7B%7D%7D)
+**Watch the video:** [![Watch the video](https://drive.google.com/file/d/1PpiGkcGFg_83b6j7RxLRSEkkQBgg7rE5/view)](https://drive.google.com/file/d/1v_rKbytlOVruOvBeQBUI48AWtK6S3av7/view?usp=sharing)
 
 This repository contains a Python script for real-time object detection using the MobileNet SSD model. It uses OpenCV and TensorFlow for the object detection task and can work with either an image file or a live video stream from your webcam.
